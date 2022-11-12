@@ -1,0 +1,21 @@
+{
+  "name": "s1m-vscode-theme",
+  "displayName": "s1m-vscode-theme",
+  "description": "Simon Phumin Schweikert's personal Visual Studio Code theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "S1M Visual Studio Code Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/S1M Visual Studio Code Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
