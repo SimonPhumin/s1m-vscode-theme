@@ -4,4 +4,4 @@ My personal Visual Studio Code color theme (dark mode only).
 
 ## Installation
 
-Just search for 'S1M VS Code Theme' in the Visual Studio Code Extension Marketplace.
+Just search for 'S1M Theme' in the Visual Studio Code Extension Marketplace.
