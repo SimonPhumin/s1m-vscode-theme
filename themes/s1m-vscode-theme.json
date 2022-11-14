@@ -295,28 +295,28 @@
       "name": "Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#ceddeb"
       }
     },
     {
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#ceddeb"
       }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#ceddeb"
       }
     },
     {
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#ceddeb"
       }
     },
     {
@@ -433,7 +433,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#ceddeb"
       }
     },
     {
@@ -572,14 +572,14 @@
       "name": "[HTML] - Entity",
       "scope": ["entity.other"],
       "settings": {
-        "foreground": "#33CED8"
+        "foreground": "#62d4dc"
       }
     },
     {
       "name": "[HTML] - Text basic",
       "scope": "text.html.basic",
       "settings": {
-        "foreground": "#B7C5D3"
+        "foreground": "#ceddeb"
       }
     },
     {
@@ -615,7 +615,7 @@
         "meta.tag.js"
       ],
       "settings": {
-        "foreground": "#008b94"
+        "foreground": "#a097ff"
       }
     },
     {
@@ -665,7 +665,7 @@
       }
     },
     {
-      "name": "[JAVASCRIPT] - Contstants",
+      "name": "[JAVASCRIPT] - Constants",
       "scope": [
         "variable.other.constant.js",
         "variable.other.constant.js.jsx",
@@ -684,7 +684,7 @@
         "variable.object.property.tsx"
       ],
       "settings": {
-        "foreground": "#8BD49C"
+        "foreground": "#ceddeb"
       }
     },
     {
