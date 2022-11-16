@@ -10,7 +10,6 @@
 
     "activityBar.background": "#1D252C",
     "activityBar.border": "#333F4A",
-    "activityBar.dropBackground": "#333F4A",
     "activityBar.foreground": "#fff",
     "activityBarBadge.background": "#b7c5d3",
     "activityBarBadge.foreground": "#181e24",
@@ -234,7 +233,7 @@
 
     "textBlockQuote.background": "#B7C5D3",
     "textBlockQuote.border": "#B7C5D3",
-    "textCodeBlock.background": "#B7C5D3",
+    "textCodeBlock.background": "#B7C5D333",
     "textLink.activeForeground": "#718ca1",
     "textLink.foreground": "#718ca1",
     "textPreformat.foreground": "#718ca1",
