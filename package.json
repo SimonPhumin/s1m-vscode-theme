@@ -4,6 +4,7 @@
   "description": "Simon Phumin Schweikert's personal Visual Studio Code theme.",
   "version": "0.0.1",
   "publisher": "simonphumin",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.73.1"
   },
